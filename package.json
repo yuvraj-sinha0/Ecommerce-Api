@@ -2,10 +2,10 @@
   "name": "ecommerce-api",
   "version": "1.0.0",
   "description": "ecommerce-api",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodemon app.js"
   },
   "author": "Yuvraj sinha",
   "license": "ISC",
